@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="archetypeVersion=1.0"/>
+        <listEntry value="package=Selenium.project"/>
+        <listEntry value="archetypeGroupId=org.jboss.maven.archetypes"/>
+        <listEntry value="archetypeArtifactId=selenium-testng"/>
+        <listEntry value="groupId=Selenium"/>
+        <listEntry value="artifactId=project"/>
+        <listEntry value="outputDirectory=C:\Users\ajsty\Documents\Learn\Selenium\Java Sel"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\ajsty\Documents\Learn\Selenium\Java Sel"/>
+</launchConfiguration>
